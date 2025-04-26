@@ -22,6 +22,7 @@ function Comp2() {
             <button onClick={myFunction}>INCREASE COUNT</button>
             <h1>{count}</h1>
             <button onClick={decrease} >DECREASE COUNT</button>
+            <h1>new updated code</h1>
 
         </Fragment>
     )
