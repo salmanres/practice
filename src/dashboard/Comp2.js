@@ -6,7 +6,7 @@ function Comp2() {
 
     const [count, setCount] = useState(1); //hook for state mgmt
 
-    // auto update
+    // auto update the component
 
     const myFunction = () => {
         setCount(count + 1);
