@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0 auto; 
+  box-sizing: border-box;
+}
+
+.mynav{
+  height: 70px;
+  background-color: red;
+  width: 100%;
+}
+
+
