@@ -10,4 +10,27 @@
   width: 100%;
 }
 
+.register{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.register div { 
+  width: 400px;
+  border: 1px solid red;
+  padding: 10px;
+}
+
+.register div input{
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.register div button{
+  padding: 10px;
+  width: 100%;
+}
+
 
