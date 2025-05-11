@@ -4,33 +4,21 @@
   box-sizing: border-box;
 }
 
-.mynav{
-  height: 70px;
-  background-color: red;
-  width: 100%;
+.my-navbar{
+  background-color: red !important;
 }
 
-.register{
-  display: flex;
+.div1{
+  height: 300px;
+  background-color: yellow;
+}
+
+.div2{
+  height: 300px;
+  background-color: blue;
+}
+
+.mydiv3{
+  display: flex !important;
   justify-content: center;
-  margin-top: 50px;
 }
-
-.register div { 
-  width: 400px;
-  border: 1px solid red;
-  padding: 10px;
-}
-
-.register div input{
-  padding: 10px;
-  width: 100%;
-  margin-bottom: 5px;
-}
-
-.register div button{
-  padding: 10px;
-  width: 100%;
-}
-
-
